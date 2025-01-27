@@ -1,6 +1,6 @@
 # shawn-htx-ds-sub
 
-This repository contains all files 
+This repository contains all notebooks and codebases, but not the datasets and finetuned model.
 
 
 **Setting Up:**
