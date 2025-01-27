@@ -18,7 +18,7 @@ Additionally, the fineetuned model can be accessed publicly here: https://huggin
 
 Task 1:
 To run Task 1, cd to the asr directory and run the two commands from cmd.txt, namely:
-docker build -t asr-api -f asr.Dockerfile . and docker run --gpus all -p 8001:8001 asr-api 
+'docker build -t asr-api -f asr.Dockerfile .' and 'docker run --gpus all -p 8001:8001 asr-api'
 
 Task 2:
 All tasks are in the notebook, with explanations with respect and reference to the report (training-report.pdf)
