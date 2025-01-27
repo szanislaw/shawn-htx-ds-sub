@@ -1,0 +1,15 @@
+flask
+transformers
+torch
+soundfile
+docker
+fastapi
+pandas
+torchaudio
+pandas
+numpy
+typing
+dataclasses
+scikit-learn
+tqdm
+concurrent.futures 
