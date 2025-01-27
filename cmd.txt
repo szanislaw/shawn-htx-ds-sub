@@ -1,0 +1,2 @@
+docker build -t asr-api -f asr.Dockerfile .
+docker run --gpus all -p 8001:8001 asr-api
