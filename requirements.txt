@@ -12,4 +12,3 @@ typing
 dataclasses
 scikit-learn
 tqdm
-concurrent.futures 
