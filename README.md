@@ -15,7 +15,7 @@ Additional files include **training-report.pdf** (for Task 4) and **essay-ssl.pd
 
 The custom common-voice dataset provided within the question paper should be downloaded and extracted into the folder in which this repository is cloned. 
 
-Additionally, the fineetuned model can be accessed publicly here: https://huggingface.co/szanislaw/wav2vec2-large-960h-cv
+Additionally, the fineetuned model can be accessed publicly here: https://huggingface.co/szanislaw/wav2vec2-large-960h-cv and should be cloned into the asr-train folder for usage.
 
 
 Task 1:
